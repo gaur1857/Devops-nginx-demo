@@ -2,6 +2,9 @@
 
 #this command is used for nginx installation and service start
 
+
+#you are the commander
+
 sudo apt-get update -y
 sudo apt install nginx -y
 
